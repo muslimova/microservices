@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/UdsuMicroservices/account-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/UdsuMicroservices/account-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/UdsuMicroservices/auth-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/UdsuMicroservices/auth-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/UdsuMicroservices/config/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/UdsuMicroservices/config/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/UdsuMicroservices/gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/UdsuMicroservices/gateway/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/UdsuMicroservices/monitoring/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/UdsuMicroservices/monitoring/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/UdsuMicroservices/notification-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/UdsuMicroservices/notification-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/UdsuMicroservices/registry/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/UdsuMicroservices/registry/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/UdsuMicroservices/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/UdsuMicroservices/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/UdsuMicroservices/statistics-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/UdsuMicroservices/statistics-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/UdsuMicroservices/turbine-stream-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/UdsuMicroservices/turbine-stream-service/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

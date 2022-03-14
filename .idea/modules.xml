@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/UdsuMicroservices/UdsuMicroservices.iml" filepath="$PROJECT_DIR$/UdsuMicroservices/UdsuMicroservices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UdsuMicroservices/account-service/account-service.iml" filepath="$PROJECT_DIR$/UdsuMicroservices/account-service/account-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UdsuMicroservices/auth-service/auth-service.iml" filepath="$PROJECT_DIR$/UdsuMicroservices/auth-service/auth-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UdsuMicroservices/config/config.iml" filepath="$PROJECT_DIR$/UdsuMicroservices/config/config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UdsuMicroservices/gateway/gateway.iml" filepath="$PROJECT_DIR$/UdsuMicroservices/gateway/gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UdsuMicroservices/monitoring/monitoring.iml" filepath="$PROJECT_DIR$/UdsuMicroservices/monitoring/monitoring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UdsuMicroservices/notification-service/notification-service.iml" filepath="$PROJECT_DIR$/UdsuMicroservices/notification-service/notification-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UdsuMicroservices/registry/registry.iml" filepath="$PROJECT_DIR$/UdsuMicroservices/registry/registry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UdsuMicroservices/statistics-service/statistics-service.iml" filepath="$PROJECT_DIR$/UdsuMicroservices/statistics-service/statistics-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UdsuMicroservices/turbine-stream-service/turbine-stream-service.iml" filepath="$PROJECT_DIR$/UdsuMicroservices/turbine-stream-service/turbine-stream-service.iml" />
+    </modules>
+  </component>
+</project>
