@@ -1,7 +1,6 @@
 package com.udsu.account.service;
 
 import com.udsu.account.client.AuthServiceClient;
-import com.udsu.account.client.StatisticsServiceClient;
 import com.udsu.account.domain.Account;
 import com.udsu.account.domain.Currency;
 import com.udsu.account.domain.Saving;
@@ -63,9 +62,6 @@ public class AccountServiceImpl implements AccountService {
         return account;
     }
 
-    /**
-     * {@inheritDoc}
-     */
     @Override
     public void saveChanges(String name, Account update) {
 

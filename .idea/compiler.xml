@@ -8,23 +8,19 @@
         <outputRelativeToContentRoot value="true" />
         <module name="registry" />
         <module name="auth-service" />
-        <module name="statistics-service" />
-        <module name="turbine-stream-service" />
-        <module name="monitoring" />
         <module name="account-service" />
         <module name="config" />
-        <module name="gateway" />
-        <module name="notification-service" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="account-service" target="1.8" />
       <module name="auth-service" target="8" />
-      <module name="config" target="8" />
+      <module name="config" target="1.8" />
       <module name="gateway" target="8" />
       <module name="monitoring" target="8" />
       <module name="notification-service" target="8" />
-      <module name="registry" target="8" />
+      <module name="registry" target="1.8" />
+      <module name="Start" target="1.8" />
       <module name="statistics-service" target="8" />
       <module name="turbine-stream-service" target="8" />
       <module name="UdsuMicroservices" target="1.8" />
@@ -32,6 +28,7 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Start" options="-parameters" />
       <module name="account-service" options="-parameters" />
       <module name="auth-service" options="-parameters" />
       <module name="config" options="-parameters" />

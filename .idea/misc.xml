@@ -6,6 +6,16 @@
         <option value="$PROJECT_DIR$/UdsuMicroservices/pom.xml" />
       </list>
     </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/UdsuMicroservices/Start/pom.xml" />
+        <option value="$PROJECT_DIR$/UdsuMicroservices/gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/UdsuMicroservices/monitoring/pom.xml" />
+        <option value="$PROJECT_DIR$/UdsuMicroservices/notification-service/pom.xml" />
+        <option value="$PROJECT_DIR$/UdsuMicroservices/statistics-service/pom.xml" />
+        <option value="$PROJECT_DIR$/UdsuMicroservices/turbine-stream-service/pom.xml" />
+      </set>
+    </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_17" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
   <component name="ProjectType">
