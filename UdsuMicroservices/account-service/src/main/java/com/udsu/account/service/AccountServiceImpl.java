@@ -21,9 +21,6 @@ public class AccountServiceImpl implements AccountService {
     private final Logger log = LoggerFactory.getLogger(getClass());
 
     @Autowired
-    private StatisticsServiceClient statisticsClient;
-
-    @Autowired
     private AuthServiceClient authClient;
 
     @Autowired
@@ -76,7 +73,5 @@ public class AccountServiceImpl implements AccountService {
         repository.save(account);
 
         log.debug("account {} changes has been saved", name);
-
-        statisticsClient.updateStatistics(name, account);
     }
 }
